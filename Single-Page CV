@@ -1,0 +1,79 @@
+<DOCTYPE!>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width"/>
+        <meta lang="eng">
+        <title>Aqilah Shahira - Software Engineer</title>
+
+        <meta name="description" content="Single Page CV of Aqilah Shahira, a Software Engineer." />
+        <meta name="keywords" content="Frontend Developer, HTML, CSS, JavaScript, Resume, Web Development" />
+        <meta name="author" content="Aqilah Shahira" />
+
+        <meta property="og:title" content="Aqilah Shahira - Software Engineer" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://aqilahshahira.github.io" />
+    </head>
+
+    <body>
+        <h1>Aqilah Shahira</h1>
+        <h3>Software Engineer</h3>
+
+        <div class="conta-info">
+            <address>
+                <p>
+                    Terengganu, Malaysia <br/>
+                    <a href="tel:=60178915927">(+60) 17-891-5927</a><br/>
+                    <a href="mailto:aqilahshahira1@gmail.com">aqilahshahira1@gmail.com</a>
+                </p>
+            </address>
+        </div>
+
+        <section class="skills">
+            <h3 class="section-title">Skills</h3>
+            <p>HTML, CSS, Javascript, Java, Phyton, C, C#, BootStrap, Accessibility, Responsive Web Design,
+            Technical Writing, Presentation
+            </p>
+        </section>
+
+
+        <section class="education">
+            <h3 class="section-title">Education</h3>
+            <h4>Ajou University - Bachelor of Sofware Engineering</h4>
+            <p>2023 - ongoing</p>
+
+        </section>
+
+        <section class="projects">
+            <h3 class="section-title">Projects</h3>
+            <article>
+            <h4>Electric Kickboard Helmet System</h4>
+                <ul>
+                    <li>Managed the development of a dual-protocol IoT safety system, reducing unauthorized vehicle use by 
+100% through a mandatory "Pressure-Sensor-to-Unlock" hardware interlock. </li>
+                    <li>Implemented proximity detection algorithms using Bluetooth RSSI and Socket RTT, achieving accurate 
+distance estimation within a 10–30m range for helmet-to-vehicle pairing.</li>
+                    <li>Decreased equipment loss rates by incorporating RFID-based return verification and a buzzer alert system 
+that triggers if the helmet is not detected within the storage dock. </li>
+                    </ul>
+                </article>
+
+            <article>
+                <h4>Interactive 3D Model</h4>
+                    <ul>
+                        <li>Built a complete 5-stage programmable graphics pipeline (CPU to Framebuffer) to render complex 3D 
+primitives with 100% custom vertex and fragment shaders. </li>
+                        <li>Engineered a 3-level matrix stack hierarchy to manage articulated transformations, enabling synchronized 
+movement for models with over 5+ independent moving parts.</li>
+                        <li>Optimized rendering performance by implementing per-pixel lighting and rasterization logic, maintaining a 
+smooth 60 FPS during real-time animation scaling.</li>
+                    </ul>
+            </article>
+        </section>
+
+        <section class="internet">
+            <h3 class="section-title">Across the Internet</h3>
+            <a href="https://www.linkedin.com/in/aqilahshahira/">LinkedIn</a><br/>
+            <a href="https://github.com/aqilahshahira">Github</a>
+        </section>
+    </body>
