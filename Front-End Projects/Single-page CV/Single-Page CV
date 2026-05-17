@@ -1,9 +1,8 @@
-<DOCTYPE!>
-<html>
+<DOCTYPE! html>
+<html lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width"/>
-        <meta lang="eng">
         <title>Aqilah Shahira - Software Engineer</title>
 
         <meta name="description" content="Single Page CV of Aqilah Shahira, a Software Engineer." />
